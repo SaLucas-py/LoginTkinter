@@ -92,9 +92,9 @@ def Recover():
             codigo = random.randint(1000,4999)
             print(codigo)
             # Your Account SID from twilio.com/console
-            account_sid = "ACba4b3587a386ca1e60cfde956be07b3b"
+            account_sid = ""
             # Your Auth Token from twilio.com/console
-            auth_token  = "b29f4a9477f3bcf42fe40edf8622fadc"
+            auth_token  = ""
 
             client = Client(account_sid, auth_token)
 
