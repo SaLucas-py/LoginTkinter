@@ -7,7 +7,7 @@
 ##### -Python3
 ##### -SQLite Browser </br>
 ##### -Tkinter (biblioteca GUI)
-##### -Twillio
+##### -Twilio
 
 ## 🔧 Instalação
 ##### Primeiramente vamos começar instalando SQLITE BROWSER para a visualização do banco de dados https://sqlitebrowser.org/dl/ </br>
@@ -15,7 +15,7 @@
 ```
 pip install tkinter
 ```
-##### Ademais não precisaremos instalar o módulo Twillio
+##### Ademais precisaremos instalar o módulo Twillio
 ```
 pip install twilio
 ```
